@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814483622041",
+    "project_id": "student-directory-app-314f5",
+    "storage_bucket": "student-directory-app-314f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814483622041:android:68de2ac22ac04b64ab5008",
+        "android_client_info": {
+          "package_name": "com.example.student_directory_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkB9z0FWAAxBed9xJblZfSHJs9BSrvTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
